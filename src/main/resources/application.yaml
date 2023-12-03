@@ -7,3 +7,4 @@ spring:
     password: Admin@123
     url: jdbc:oracle:thin:@//localhost:1521/orclpdb
     username: system
+    driver-class-name: oracle.jdbc.driver.OracleDriver
