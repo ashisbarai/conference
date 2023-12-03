@@ -1,0 +1,9 @@
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/jsp/
+      suffix: .jsp
+  datasource:
+    password: Admin@123
+    url: jdbc:oracle:thin:@//localhost:1521/orclpdb
+    username: system
